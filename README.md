@@ -1,31 +1,43 @@
-Here's a `README.md` file for your project:
+# ProGraph RAG System
 
-```markdown
-# Knowledge Graph RAG System
+ProGraph RAG System is a cutting-edge Retrieval-Augmented Generation (RAG) platform that combines the power of knowledge graph creation with document-based query answering. It leverages Neo4j for graph database management, Groq's ChatGroq for advanced language processing, and Hugging Face embeddings for document vectorization. The system provides an intuitive interface for document upload, knowledge extraction, and querying, with a visually appealing 3D graph representation of relationships.
 
-This project is an advanced Retrieval-Augmented Generation (RAG) system that integrates knowledge graph creation with document-based query answering. It uses Neo4j as the graph database, Groq's ChatGroq for language processing, and Hugging Face embeddings for document vectorization. The system allows for document upload, knowledge extraction, and querying with visual representation of relationships in a 3D graph format.
+---
+
+## Demo
+
+Watch the demo video below to see ProGraph RAG System in action:
+
+[![ProGraph RAG System Demo](https://img.youtube.com/vi/your_video_id_here/0.jpg)](https://www.youtube.com/watch?v=your_video_id_here)
+
+---
 
 ## Features
 
-- **Document Upload**: Upload a PDF document to extract entities and relationships.
-- **Knowledge Graph Creation**: Automatically generates a knowledge graph based on extracted entities and relationships from the document.
-- **Query Interface**: Ask questions based on the uploaded document, and retrieve both a generated answer and knowledge graph connections.
+- **Document Upload**: Upload PDF documents to extract entities and relationships.
+- **Knowledge Graph Creation**: Automatically generates a knowledge graph based on extracted entities and relationships.
+- **Query Interface**: Ask questions based on the uploaded document and retrieve answers with graph-based insights.
 - **3D Graph Visualization**: Interactive 3D visualization of the knowledge graph using Plotly.
+- **Customizable Graph Settings**: Adjust node size, color, and edge properties for better visualization.
+
+---
 
 ## Technologies Used
 
-- **Streamlit**: For building the web interface.
-- **Neo4j**: A graph database to store and query relationships.
+- **Streamlit**: For building the user-friendly web interface.
+- **Neo4j**: A graph database for storing and querying relationships.
 - **Groq's ChatGroq**: For language processing and relationship extraction.
 - **Hugging Face Embeddings**: For document vectorization and similarity-based retrieval.
 - **Plotly**: To visualize relationships in a 3D graph.
 - **LangChain**: To handle document loading, splitting, and RAG operations.
 
+---
+
 ## Setup
 
 ### Requirements
 
-Make sure you have the following dependencies installed:
+Ensure you have the following dependencies installed:
 
 - Python 3.7 or higher
 - Neo4j instance running
