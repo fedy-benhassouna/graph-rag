@@ -8,7 +8,8 @@ ProGraph RAG System is a cutting-edge Retrieval-Augmented Generation (RAG) platf
 
 Watch the demo video below to see ProGraph RAG System in action:
 
-[![ProGraph RAG System Demo](https://img.youtube.com/vi/your_video_id_here/0.jpg)](https://www.youtube.com/watch?v=your_video_id_here)
+**[Download and Watch the Demo Video](C:/Users/Fedy/Downloads/Untitled%20video%20-%20Made%20with%20Clipchamp%20(4).mp4)**
+
 
 ---
 
