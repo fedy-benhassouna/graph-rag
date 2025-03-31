@@ -4,6 +4,14 @@ ProGraph RAG System is a cutting-edge Retrieval-Augmented Generation (RAG) platf
 
 ---
 
+## Project Workflow 
+Below is the workflow diagram illustrating how the ProGraph RAG System processes documents, extracts knowledge, and enables querying with graph-based insights: 
+
+![Project Workflow](https://github.com/user-attachments/assets/d43c20d6-6765-4d50-9089-e7e83220f169) 
+
+ --- 
+
+ 
 ## Demo
 
 Watch the demo video below to see ProGraph RAG System in action:
